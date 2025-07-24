@@ -1,7 +1,6 @@
 ## Sobre mim
 
-Meu nome é Luiz Garcia e tenho mais de 3 décadas dedicadas à Computação. Tenho mestrado em Ciência da Computação e atualmente estou fazendo especialização em Ciência de Dados na UFRGS e meu foco de estudo é justiça em IA. De profissão, fui servidor e diretor de TI no MPT-RS e hoje sou Analista de TI no TRT4.
-Adoro a produção acadêmica e, nesse espaço,  irei compartilhar meu projetos em IA e Fairness em Machine Learning. 
+Meu nome é Luiz Garcia e, nesse espaço, irei compartilhar meus projetos, em especial, sobre Fairness em Machine Learning. 
 
 ### Formação
 
