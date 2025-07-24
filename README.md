@@ -14,6 +14,8 @@ Meu nome é Luiz Garcia e, nesse espaço, irei compartilhar meus projetos, em es
 
 ### Justiça em IA
 
+Neste espaço serão apresentados os projetos que estou trabalhando.
+
 Referências:
 - [Fairness and Machine Learning](https://fairmlbook.org/), Barocas, Moritz e  Narayanan
 - [Mitigating Bias in Machine Learning](https://mitigatingbias.ml/), Leena Murgai
