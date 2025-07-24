@@ -4,11 +4,12 @@ Meu nome é Luiz Garcia e, nesse espaço, irei compartilhar meus projetos, em es
 
 ### Formação
 
-🎓 Mestre em Ciência da Computação (UFRGS)
-🎓 Pós-Graduando em Ciência de Dados (UFRGS): Data Science; AI
-🎓 Pós-Graduado em Gestão Estratégica de TI (PUCRS): Strategic IT
-🎓 Bacharel em Ciência da Computação (UFRGS)
-🎓 Técnico em Processamento de Dados (Santo Inácio de Porto Alegre)
+- 🎓 Mestre em Ciência da Computação (UFRGS)
+- 🎓 Pós-Graduando em Ciência de Dados (UFRGS): Data Science; AI
+- 🎓 Pós-Graduado em Gestão Estratégica de TI (PUCRS): Strategic IT
+- 🎓 Bacharel em Ciência da Computação (UFRGS)
+- 🎓 Técnico em Processamento de Dados (Santo Inácio de Porto Alegre)
+
 [Currículo Lattes](http://lattes.cnpq.br/1998617223767233)
 
 ### Justiça em IA
